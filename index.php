@@ -68,6 +68,7 @@
       <div id="skills" class="content-item">
         <div class="vertical-center">
             <h2>Skills</h2>
+            <h4><?php echo $json_data['skills']; ?><h4>
             <p>...</p>
         </div>
       </div>
@@ -75,7 +76,7 @@
       <div id="interests" class="content-item">
         <div class="vertical-center">
             <h2>Interests</h2>
-            <h4><?php echo $experience['hobbies']; ?><h4>
+            <h4><?php echo $json_data['hobbies']; ?><h4>
             <p>...</p>
         </div>
       </div>
