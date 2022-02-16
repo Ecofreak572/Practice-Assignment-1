@@ -21,13 +21,13 @@
   ]
   "Experience":[
     {
-      "title":"WEB DEVELOPER",
+      "title":"Web Developer",
       "employer":"CSUSB",
       "period":"March 2021 - Present",
       "description":"Minor experience using Heroku, used to git and github and their functions, used these two to deploy websites."
     },
     {
-      "title":"APPLICATION DEVELOPER",
+      "title":"Application Developer",
       "employer":"CSUSB",
       "period":"March 2018 - 2021",
       "description":"Have worked with Unity to make simple platformer, used heroku to deploy as app."
