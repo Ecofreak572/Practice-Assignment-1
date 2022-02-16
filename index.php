@@ -48,7 +48,7 @@
                 <div class="flex-grow-1">
                   <h3 class="mb-0"><?php echo $education['major']; ?></h3>
                   <div class="subheading mb-3"><?php echo $education['college']; ?></div>
-                  <p><?php echo $education['description']; ?></p>
+                  <h4><?php echo $education['description']; ?></h4>
                 </div>
                 <div class="flex-shrink-0">
                   <span class="text-primary"><?php echo $education['period']; ?></span>
@@ -66,7 +66,7 @@
                 <div class="flex-grow-1">
                   <h3 class="mb-0"><?php echo $experience['title']; ?></h3>
                   <div class="subheading mb-3"><?php echo $experience['employer']; ?></div>
-                  <p><?php echo $experience['description']; ?></p>
+                  <h4><?php echo $experience['description']; ?></h4>
                 </div>
                 <div class="flex-shrink-0">
                   <span class="text-primary"><?php echo $experience['period']; ?></span>
