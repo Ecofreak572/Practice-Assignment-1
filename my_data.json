@@ -35,13 +35,13 @@
   ]
   "Skills":[
     {
-      "Languages":"C++, C#, a bit of html and json",
-      "Programs":"Unity, Visual Studio, Microsoft Office"
+      "languages":"C++, C#, a bit of html and json",
+      "programs":"Unity, Visual Studio, Microsoft Office"
     }
   ]
   "Interests":[
     {
-      "Hobbies":"Gaming(Apex/Halo/GoW) and going to the gym."
+      "hobbies":"Gaming(Apex/Halo/GoW) and going to the gym."
     }
   ]
 }
