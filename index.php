@@ -75,7 +75,8 @@
       <div id="interests" class="content-item">
         <div class="vertical-center">
             <h2>Interests</h2>
-            <p...</p>
+            <h4><?php echo $experience['hobbies']; ?><h4>
+            <p>...</p>
         </div>
       </div>
       <hr>
