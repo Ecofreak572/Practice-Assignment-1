@@ -68,7 +68,7 @@
                 </div>
               </div>
               <hr>
-           <div id= "skills" class="content-item">
+           <div id="skills" class="content-item">
              <div class="vertical-center">
                  <h2>Skills</h2>
                  <?php foreach($json_data['skills'] AS $skills) { ?>
@@ -77,7 +77,7 @@
                </div>
             </div>
             <hr>
-           <div id= "interests" class="content-item">
+           <div id="interests" class="content-item">
              <div class="vertical-center">
                  <h2>Interests</h2>
                  <p><?php echo $interests['hobbies']; ?></p>
