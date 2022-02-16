@@ -5,7 +5,7 @@
   "phone": "(619)-552-9839",
   "email": "007617370@coyote.csusb.edu",
   "introduction": "Freelance developer and sweaty gamer, hope to make games that will be fun and addictive without dlc ;) ",
-  "Education":[
+  "education":[
     {
       "major":"Computer Systems",
       "college":"SDCC"
@@ -19,7 +19,7 @@
       "description":"Usage of Unity to make a 3d platformer for CSE 4500."
     }
   ]
-  "Experience":[
+  "experience":[
     {
       "title":"Web Developer",
       "employer":"CSUSB",
@@ -33,12 +33,12 @@
       "description":"Have worked with Unity to make simple platformer, used heroku to deploy as app."
     }
   ]
-  "Skills":[
+  "skills":[
     {
       "skills":"C++, C#, a bit of HTML and JSON, Unity, Visual Studio, Microsoft Office"
     }
   ]
-  "Interests":[
+  "interests":[
     {
       "hobbies":"Gaming(Apex/Halo/GoW) and going to the gym."
     }
