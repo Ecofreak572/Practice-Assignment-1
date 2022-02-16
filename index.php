@@ -70,6 +70,7 @@
                   <span class="text-primary"><?php echo $experience['period']; ?></span>
                 </div>
               </div>
+            <?php } ?>
               <hr>
            <div id="skills" class="content-item">
              <div class="vertical-center">
@@ -84,10 +85,7 @@
              <div class="vertical-center">
                  <h2>Interests</h2>
                  <h4><?php echo $interests['hobbies']; ?><h4>
-                 <p>...</p>
-             </div>
-            </div>
-          <?php  } ?>
+                 <p>...</p>            
         </div>
       </div>
       <hr>
