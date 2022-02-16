@@ -73,16 +73,17 @@
            <div id="skills" class="content-item">
              <div class="vertical-center">
                  <h2>Skills</h2>
-                 <?php foreach($json_data['skills'] AS $skills) { ?>
-                 <p><?php echo $skills['languages']; ?></p>
-                 <p><?php echo $skills['programs']; ?></p>
+                 <h4><?php echo $skills['languages']; ?><h4>
+                 <h4><?php echo $skills['programs']; ?></h4>]
+                 <p>...</p>
                </div>
             </div>
             <hr>
            <div id="interests" class="content-item">
              <div class="vertical-center">
                  <h2>Interests</h2>
-                 <p><?php echo $interests['hobbies']; ?></p>
+                 <h4><?php echo $interests['hobbies']; ?><h4>
+                 <p>...</p>
              </div>
             </div>
           <?php  } ?>
