@@ -1,3 +1,4 @@
+
 <?php
     $json_file = file_get_contents('my_data.json');
     $json_data = json_decode($json_file,true);
@@ -22,8 +23,6 @@
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#education">Education</a>
           <a class="nav-link" href="#experience">Experience</a>
-          <a class="nav-link" href="#skills">Skills</a>
-          <a class="nav-link" href="#interests">Interests</a>
         </nav>
       </nav>
     </div>
@@ -43,15 +42,6 @@
       <div id="education" class="content-item">
         <div class="vertical-center">
           <h2>Education</h2>
-          <?php foreach($json_data['education'] AS $education) { ?>
-              <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
-                  <h3 class="mb-0"><?php echo $education['degree']; ?></h3>
-                  <div class="subheading mb-3"><?php echo $education['college']; ?></div>
-                  <p><?php echo $experience['description']; ?></p>
-                </div>
-                <div class="flex-shrink-0">
-          <span class="text-primary"><?php echo $experience['period']; ?></span>
           <p>...</p>
         </div>
       </div>
@@ -70,22 +60,7 @@
                   <span class="text-primary"><?php echo $experience['period']; ?></span>
                 </div>
               </div>
-            <?php } ?>
-              <hr>
-           <div id="skills" class="content-item">
-             <div class="vertical-center">
-                 <h2>Skills</h2>
-                 <h4><?php echo $skills['languages']; ?><h4>
-                 <h4><?php echo $skills['programs']; ?><h4>
-                 <p>...</p>
-               </div>
-            </div>
-            <hr>
-           <div id="interests" class="content-item">
-             <div class="vertical-center">
-                 <h2>Interests</h2>
-                 <h4><?php echo $interests['hobbies']; ?><h4>
-                 <p>...</p>            
+          <?php  } ?>
         </div>
       </div>
       <hr>
