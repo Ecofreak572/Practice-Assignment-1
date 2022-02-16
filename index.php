@@ -48,7 +48,7 @@
                 <div class="flex-grow-1">
                   <h3 class="mb-0"><?php echo $education['major']; ?></h3>
                   <div class="subheading mb-3"><?php echo $education['college']; ?></div>
-                  <h4><?php echo $education['description']; ?></h4>
+                  <p><?php echo $education['description']; ?></p>
                 </div>
                 <div class="flex-shrink-0">
                   <span class="text-primary"><?php echo $education['period']; ?></span>
@@ -66,7 +66,7 @@
                 <div class="flex-grow-1">
                   <h3 class="mb-0"><?php echo $experience['title']; ?></h3>
                   <div class="subheading mb-3"><?php echo $experience['employer']; ?></div>
-                  <h4><?php echo $experience['description']; ?></h4>
+                  <p><?php echo $experience['description']; ?></p>
                 </div>
                 <div class="flex-shrink-0">
                   <span class="text-primary"><?php echo $experience['period']; ?></span>
@@ -79,16 +79,14 @@
       <div id="skills" class="content-item">
         <div class="vertical-center">
             <h2>Skills</h2>
-            <h4><?php echo $json_data['skills']; ?><h4>
-            <p>...</p>
+            <p><?php echo $json_data['skills']; ?></p>
         </div>
       </div>
       <hr>
       <div id="interests" class="content-item">
         <div class="vertical-center">
             <h2>Interests</h2>
-            <h4><?php echo $json_data['hobbies']; ?><h4>
-            <p>...</p>
+            <p><?php echo $json_data['hobbies']; ?></p>
         </div>
       </div>
       <hr>
