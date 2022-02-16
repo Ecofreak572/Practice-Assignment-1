@@ -75,7 +75,7 @@
              <div class="vertical-center">
                  <h2>Skills</h2>
                  <h4><?php echo $skills['languages']; ?><h4>
-                 <h4><?php echo $skills['programs']; ?></h4>]
+                 <h4><?php echo $skills['programs']; ?><h4>
                  <p>...</p>
                </div>
             </div>
