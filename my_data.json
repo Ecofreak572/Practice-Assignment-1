@@ -18,7 +18,7 @@
       "period":"August 2021 - Present",
       "description":"Usage of Unity to make a 3d platformer for CSE 4500",
     }
-  ],
+  ]
   "experience":[
     {
       "title":"Web Developer",
@@ -32,7 +32,7 @@
       "period":"March 2018 - 2021",
       "description":"Have worked with Unity to make simple platformer, used heroku to deploy as app",
     }
-   ],
+   ]
 
   "skills": "C++, C#, a bit of HTML and JSON, Unity, Visual Studio, Microsoft Office",
   "hobbies": "Gaming(Apex/Halo/GoW) and going to the gym",
