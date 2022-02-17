@@ -4,36 +4,35 @@
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
   "phone": "(619)-552-9839",
   "email": "007617370@coyote.csusb.edu",
-  "introduction": "Freelance developer and sweaty gamer, hope to make games that will be fun and addictive without dlc",
+  "introduction": "Freelance developer and sweaty gamer, hope to make games that will be fun and addictive without dlc.",
   "education":[
     {
       "major":"Computer Systems",
       "college":"SDCC",
       "period":"August 2016 - May 2020",
-      "description":"Usage of C++ to make a nim sum random game and also a calculator which uses postfix notation to calculate equations",
+      "description":"Usage of C++ to make a nim sum random game and also a calculator which uses postfix notation to calculate equations.",
     },
     {   
       "major":"Computer Systems",
       "college":"CSUSB",
       "period":"August 2021 - Present",
-      "description":"Usage of Unity to make a 3d platformer for CSE 4500",
+      "description":"Usage of Unity to make a 3d platformer for CSE 4500"
     }
-  ]
+  ],
   "experience":[
     {
       "title":"Web Developer",
       "employer":"CSUSB",
       "period":"March 2021 - Present",
-      "description":"Minor experience using Heroku, used to git and github and their functions, used these two to deploy websites",
+      "description":"Minor experience using Heroku, used to git and github and their functions, used these two to deploy websites.",
     },
     {
       "title":"Application Developer",
       "employer":"CSUSB",
       "period":"March 2018 - 2021",
-      "description":"Have worked with Unity to make simple platformer, used heroku to deploy as app",
+      "description":"Have worked with Unity to make simple platformer, used heroku to deploy as app.",
     }
-   ]
-
-  "skills": "C++, C#, a bit of HTML and JSON, Unity, Visual Studio, Microsoft Office",
-  "hobbies": "Gaming(Apex/Halo/GoW) and going to the gym",
+   ],
+  "skills": "C++, C#, a bit of HTML and JSON, Unity, Visual Studio, Microsoft Office.",
+  "hobbies": "Gaming(Apex/Halo/GoW) and going to the gym."
 }
