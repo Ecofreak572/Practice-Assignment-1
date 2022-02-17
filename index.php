@@ -79,14 +79,16 @@
       <div id="skills" class="content-item">
         <div class="vertical-center">
             <h2>Skills</h2>
-            <p><?php echo $json_data['skills']; ?></p>
+            <h4><?php echo $json_data['skills']; ?></h4>
+            <p>...</p>
         </div>
       </div>
       <hr>
       <div id="interests" class="content-item">
         <div class="vertical-center">
             <h2>Interests</h2>
-            <p><?php echo $json_data['hobbies']; ?></p>
+            <h4><?php echo $json_data['hobbies']; ?></h4>
+            <p>...</p>
         </div>
       </div>
       <hr>
